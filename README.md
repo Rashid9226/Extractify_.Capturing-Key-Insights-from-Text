@@ -1,2 +1,2 @@
-# Extractify_.-Capturing-Key-Insights-from-Your-Text
+# Extractify: Capturing Key Insights from Text
 Keyword extraction from text
